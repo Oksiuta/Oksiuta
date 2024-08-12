@@ -12,7 +12,25 @@
   </div>
 
   <h3 align="center">A 3D Portfolio</h3>
+Welcome to my GitHub profile! I’m passionate about bringing 3D experiences to life on the web. My expertise lies in creating interactive web applications utilizing WebGL, Three.js, Babylon.js, and A-Frame, along with designing 3D models and animations that enhance user engagement.
 
+---
+
+## 🛠️ Skills
+
+- **Web Development:**
+  - JavaScript (ES6+), HTML5, CSS3
+  - WebGL, Three.js, Babylon.js, A-Frame
+- **3D Modeling:**
+  - Blender, Autodesk Maya, 3DS Max, ZBrush
+- **Animation:**
+  - Keyframe animation, Rigging, Skeletal animation
+- **Other Skills:**
+  - Version Control (Git, GitHub)
+  - Responsive Design & UX Principles
+  - Shader Programming (GLSL)
+ 
+    
    <div align="center">
     Build this project step by step with our detailed.
     </div>
