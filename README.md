@@ -15,7 +15,7 @@
 Welcome to my GitHub profile! I’m passionate about bringing 3D experiences to life on the web. My expertise lies in creating interactive web applications utilizing WebGL, Three.js, Babylon.js, and A-Frame, along with designing 3D models and animations that enhance user engagement.
 
 ---
-
+</div>
 ## 🛠️ Skills
 
 - **Web Development:**
@@ -33,8 +33,8 @@ Welcome to my GitHub profile! I’m passionate about bringing 3D experiences to 
     
    <div align="center">
     Build this project step by step with our detailed.
-    </div>
-</div>
+    
+
 
 <!---
 Oksiuta/Oksiuta is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -52,5 +52,5 @@ You can click the Preview link to take a look at your changes.
 <a href="https://twitter.com/ABSphreak" target="_blank"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=flat-square&logo=twitter&logoColor=white" alt="Twitter"></a>
 <a href="https://open.spotify.com/user/0170agi99s5hh187g7mtz245b" target="_blank"><img src="https://img.shields.io/badge/Spotify-%231ED760.svg?&style=flat-square&logo=spotify&logoColor=white" alt="Spotify"></a>
 <a href="https://dev.to/ABSphreak" target="_blank"><img src="https://img.shields.io/badge/DEV-%230A0A0A.svg?&style=flat-square&logo=DEV.to&logoColor=white" alt="DEV.to"></a>
-
+</div>
 </div>
