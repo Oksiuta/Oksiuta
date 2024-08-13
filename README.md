@@ -16,7 +16,6 @@ Welcome to my GitHub profile! I’m passionate about bringing 3D experiences to 
 
 ---
 </div>
-## 🛠️ Skills
 
 - **Web Development:**
   - JavaScript (ES6+), HTML5, CSS3
