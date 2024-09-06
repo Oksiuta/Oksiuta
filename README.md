@@ -19,15 +19,19 @@ Welcome to my GitHub profile! I’m passionate about bringing 3D experiences to 
 
 - **Web Development:**
   - JavaScript (ES6+), HTML5, CSS3
-  - WebGL, Three.js, Babylon.js, A-Frame
+  - WebGL, Three.js, Babylon.js, A-Frame, Fullstack
 - **3D Modeling:**
   - Blender, Autodesk Maya, 3DS Max, ZBrush
 - **Animation:**
   - Keyframe animation, Rigging, Skeletal animation
 - **Other Skills:**
+  - Blockchain technology
   - Version Control (Git, GitHub)
   - Responsive Design & UX Principles
   - Shader Programming (GLSL)
+  - Architecture design
+ 
+    
  
     
    <div align="center">
